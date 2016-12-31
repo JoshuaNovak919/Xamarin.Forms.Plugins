@@ -1,0 +1,9 @@
+﻿<Properties StartupConfiguration="{AD2D2DB4-E781-4CF1-9B62-3AAD264F196D}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Ad-Hoc|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SVG.Forms.Plugin.Android PreferredExecutionTarget="Android.1115fbd23b9f3d03" />
+</Properties>
